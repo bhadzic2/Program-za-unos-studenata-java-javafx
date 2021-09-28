@@ -1,0 +1,15 @@
+.crvena{
+    -fx-background-color:red;
+}
+.plava{
+    -fx-background-color:blue;
+}
+.zelena{
+    -fx-background-color:green;
+}
+.zeleniProgress{
+    -fx-accent: green;
+}
+.crveniProgress{
+    -fx-accent: red;
+}
